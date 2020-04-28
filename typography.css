@@ -1,0 +1,156 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Museo Sans W01",Museo Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.tdstvplus-section p{
+     font-size: 20px;
+     font-weight: 100;
+     line-height: 36px;
+     letter-spacing: .025em;
+ }
+.align-left-responsive {
+    text-align: left;
+}
+
+.align-right-responsive {
+    text-align: left;
+}
+.tdstvplus-subhead h2 {
+    color: rgba(119,200,221,1);
+    font-size: 32px;
+    font-weight: 300;
+}
+ .tdstvplus-section a {
+      color: black;
+}
+.tdstvplus-section .label {
+    padding: 3px 6px;
+}
+.tdstvplus-section a:hover {
+      color: #3c87da;
+}
+.cloudtv-bubble a {
+    color: white;
+}
+.cloudtv-bubble a:hover {
+    color: rgba(119,200,221,1);
+}
+.section-out-there a {
+    color: white;
+}
+.tdstvplus-section h3 {
+    color: rgba(60,102,147,1) !important;
+}
+.section-out-there a:hover {
+    color: rgba(119,200,221,1);
+}
+.tdstvplus-section h2 {
+     font-size: 36px;
+}
+.section-hero h1, .section-hero-inverse h1 {
+     border-bottom: none;
+     font-weight: 400;
+     font-size: 42px;
+}
+
+.section-hero a, .section-hero-inverse a {
+     color: white;
+}
+
+.section-hero sup, .section-hero-inverse sup {
+     font-size: 12px;
+     vertical-align: super;
+}
+.section-integrated h2, .section-your-tv h2, .section-out-there h2, .section-entertainment h2 {
+     color: #3c87da;
+}
+
+.onlinestreaming-copy h2, .livetv-copy h2, .ondemand-copy h2, .cloudtv-content h2
+, .section-printer-friendly h2, .section-channel-lineup h2 {
+     color: rgba(56,127,209,1);
+     letter-spacing: .025em;
+}
+.livetv-copy {
+     margin-top: 100px;
+ }
+ .onlinestreaming-copy {
+     margin-top: 30px;
+     position: relative;
+ }
+ .tdstv-subscription-copy h2{
+     color: rgba(125,206,225,1) !important;
+     font-size: 48px;
+     font-weight: 300;
+ }
+.title-blue h2 {
+    color: rgba(60,131,223,1);
+}
+.section-cloudtv h2 {
+    color: white;
+}
+
+.cloudtv-content p {
+    color: white;
+}
+.premiums-hero-copy {
+    color: rgba(119,212,240,1) !important;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 1.25;
+    max-width: 75%;
+}
+.app-tablet-copy p {
+    font-size: 23px;
+}
+.section-out-there p {
+    color: white;
+}
+.section-out-there h2 {
+    color: #7acadd;
+}
+.out-there-copy {
+    text-align: left;
+}
+.app-tablet-copy {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.out-there-content h2 {
+    color: #7acadd;
+}
+.out-there-content p {
+    color: white;
+}
+@media (max-width: 767px) {
+    .tdstv-subscription-copy {
+        padding-top: 80px;
+    }
+}
+
+@media (min-width: 870px) {
+    .app-tablet-copy {
+        max-width: 60%;
+    }
+}
+@media (min-width: 600px) {
+    .title-copy-bottom {
+        margin-bottom: 135px;
+    }
+}
+@media (max-width: 767px) {
+    .tdstvplus-section p {
+        font-size: 16px;
+        line-height: 1.85em;
+    }
+}
+@media (max-width: 960px){
+    .tdstv-subscription-copy h2 {
+        font-size: 38px;
+    }
+}
+
+@media (max-width: 380px){
+    .tdstv-subscription-copy h2 {
+        font-size: 32px;
+    }
+}

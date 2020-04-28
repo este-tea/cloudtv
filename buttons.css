@@ -1,0 +1,20 @@
+.btn-search:before {
+    line-height: 22px;
+    margin-right: -7px;
+}
+
+
+.tdstvplus-section button {
+   font-size: 18px;
+   padding: 14px 22px;
+   text-transform: capitalize;
+}
+.rounded-button {
+    border-radius: 360px !important;
+    padding: inherit 10px inherit 10px;
+    font-weight: bold;
+    padding: 15px;
+}
+.rounded {
+    border-radius: 10px;
+}
