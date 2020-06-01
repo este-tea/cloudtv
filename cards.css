@@ -99,7 +99,7 @@
     text-align: center;
 }
 
-.packages_card-header h2 {
+.tdstvplus-section.section-channels .packages_card-header h2 {
     color: white;
     padding: 15px;
     margin: 0px;
@@ -125,7 +125,6 @@
     background-color: rgba(0,115,215,1);
     margin: 15px auto;
 }
-
 
 .packges_card-circle p {
     color: white;
@@ -161,12 +160,4 @@
     .packages_card-header {
         border-radius: 5px;
     }
-    .tdstv-subscription-copy {
-        padding-top: 50px;
-    }
-}
-@media(max-width: 815px) {
-  .packages_card-shell {
-    flex-basis: 100%;
-  }
 }
