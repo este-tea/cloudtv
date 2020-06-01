@@ -1,0 +1,97 @@
+.section-hero .title-copy {
+    margin-top: 13%;
+}
+
+@media (max-width: 767px) {
+    .section-hero .title-copy {
+        margin-top: 3%;
+    }
+}
+
+@media (max-width: 400px) {
+    .section-hero .title-copy {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 620px) {
+    .section-hero .img-responsive {
+        width: 100%;
+    }
+}
+
+.section-entertainment .tds-content-rich.sub-note {
+    margin-top: -8%;
+}
+
+.tdstvplus-section.section-watch {
+    margin-top: 10%;
+}
+
+.section-watch .tds-content-rich {
+    margin-top: 15%;
+}
+
+@media (max-width: 767px) {
+    .section-watch .tds-content-rich {
+        margin-top: 5%;
+        text-align: center;
+    }
+}
+
+.tdstvplus-section.section-your-tv {
+    margin-top: 5%;
+}
+
+.section-your-tv .tds-content-rich {
+    margin-top: 15%;
+}
+
+@media (max-width: 1000px) {
+    .section-your-tv .img-responsive {
+        max-width: 640px;
+        margin-left: -15%;
+    }
+}
+
+@media (max-width: 900px) {
+    .section-your-tv .tds-content-rich {
+        margin-top: 7%;
+        text-align: center;
+    }
+    .section-your-tv .img-responsive {
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .img-remote-tilted {
+        width: 100%;
+    }
+}
+
+.section-subscription:after {
+    padding-top: 500%;
+    bottom: 90%;
+}
+
+@media (max-width: 767px) {
+    .section-subscription:after {
+        padding-top: 400%;
+        bottom: 95%;
+    }
+    .pagelayout .section-subscription .tds-pagedivider-two-col {
+        padding-top: 0;
+    }
+
+    .section-subscription {
+        margin-top: -24px;
+    }
+
+    .container-fluid.tdstv-subscription-copy {
+        padding-top: 12%;
+    }
+}
+
